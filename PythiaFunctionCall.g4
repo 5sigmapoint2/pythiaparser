@@ -1,6 +1,6 @@
 // ----------------------------------------------------------------------------
 // Grammars always start with a grammar header. This grammar is called
-// ArrayInit and must match the filename: PythiaFunctionCall.g4
+// PythiaFunctionCall and must match the filename: PythiaFunctionCall.g4
 // ----------------------------------------------------------------------------
 grammar PythiaFunctionCall;
 
